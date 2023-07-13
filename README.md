@@ -48,14 +48,6 @@
     [code]
     Google
   
-- **[PVDM] Video Probabilistic Diffusion Models in Projected Latent Space**
-  
-    (2023.02.15) CVPR 2023
-    [\[page\]](https://sihyun.me/PVDM/) 
-    [\[paper\]](https://arxiv.org/abs/2302.07685) 
-    [\[code\]](https://github.com/sihyun-yu/PVDM)
-    Google
-
 - **MagicVideo: Efficient Video Generation With Latent Diffusion Models**
 
     (2022.11.20) arXiv
@@ -63,7 +55,7 @@
     [\[paper\]](https://arxiv.org/abs/2211.11018) 
     [code]
     ByteDance
-  
+
 - **LVDM：Latent Video Diffusion Models for High-Fidelity Long Video Generation**
 
     (2022.11.23) arXiv
@@ -71,6 +63,14 @@
     [\[paper\]](https://arxiv.org/abs/2211.13221) 
     [\[code\]](https://github.com/YingqingHe/LVDM)
     HKUST Tencent
+
+- **[PVDM] Video Probabilistic Diffusion Models in Projected Latent Space**
+  
+    (2023.02.15) CVPR 2023
+    [\[page\]](https://sihyun.me/PVDM/) 
+    [\[paper\]](https://arxiv.org/abs/2302.07685) 
+    [\[code\]](https://github.com/sihyun-yu/PVDM)
+    Google
 
 - **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**
 
