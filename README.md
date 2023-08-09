@@ -118,7 +118,7 @@
     
 - **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**
 
-    (2023.3.16) <code>ICCV 20ICCV 202323</code> Tencent(AI Lab) HKUST
+    (2023.3.16) <code>ICCV 2023</code> Tencent(AI Lab) HKUST
 
     [\[page\]](https://fate-zero-edit.github.io/) 
     [\[paper\]](https://arxiv.org/abs/2303.09535) 
